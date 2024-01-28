@@ -8,5 +8,4 @@ Python script that logs messages, leaves/joins and downloads any media sent.
 4. Run. It should work. Hopefully.
 
 ## Requirements
-discord library
-...and that's it.
+DiscordPy...and that's it.
